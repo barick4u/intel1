@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Hello My Deqar Friend"
+Please type in your Name
+read Name
+echo "Hello $Name"
