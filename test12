@@ -2,4 +2,5 @@
 echo "Hello My Deqar Friend"
 Please type in your Name
 read Name
+hello
 echo "Hello $Name"
